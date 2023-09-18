@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: Monkey_Problems, Configuration: Debug Win32 ------
+1>Monkey_Problems.cpp
+1>c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(13): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(19): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(22): warning C4715: 'monkey_trouble': not all control paths return a value
+1>Monkey_Problems.vcxproj -> C:\Users\iD Student\source\repos\Monkey_Problems\Debug\Monkey_Problems.exe
+1>Done building project "Monkey_Problems.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,6 @@
+﻿  Monkey_Problems.cpp
+c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(13): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(19): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\id student\source\repos\monkey_problems\monkey_problems\monkey_problems.cpp(22): warning C4715: 'monkey_trouble': not all control paths return a value
+  Monkey_Problems.vcxproj -> C:\Users\iD Student\source\repos\Monkey_Problems\Debug\Monkey_Problems.exe
